@@ -1,0 +1,7 @@
+only-fixed: true
+
+ignore:
+ - package:
+     type: "go-module"
+ - package:
+     type: "linux-kernel"
